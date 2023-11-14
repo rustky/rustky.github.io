@@ -43,8 +43,8 @@ html {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  width: 60%;
+  height: auto;
 }
 
 .bio {
